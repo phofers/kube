@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#F#",
+    " O "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:slime_ball"
+    },
+    "F": {
+      "item": "minecraft:firework_rocket"
+    },
+    "O": {
+      "item": "minecraft:orange_wool"
+    }
+  },
+  "result": {
+    "id": "kube:kerbal",
+    "count": 1
+  }
+}
